@@ -1,7 +1,7 @@
 [![Nipuni's GitHub Banner](Nipunibanner.png)](https://braydoncoyer.dev)
 
 <h1 align="left">Nipuni Madanayake</h1>
-<h3 align="left">Undergraduate of University of Moratuwa, Faculty of Information Technology</h3>
+
 <p>I'm Nipuni Madanayake from Sri Lanka, and I am an undergraduate of University of Moratuwa. I really enjoy learning languages and frameworks like Angular and I enjoy styling web applications using CSS, Bootstrap and Angular Material as well.</p>
 <img align="right" alt="Coding" width="400" src="https://resultpediabd.com/wp-content/uploads/2019/08/me.gif">
 
@@ -26,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nipuninuwanthika&show_icons=true&locale=en&layout=compact" alt="nipuninuwanthika" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nipuninuwanthika&show_icons=true&locale=en" alt="nipuninuwanthika" /></p>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NipuniNuwanthika&repo=github-readme-stats)](https://github.com/NipuniNuwanthika/github-readme-stats)
