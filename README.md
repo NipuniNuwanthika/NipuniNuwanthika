@@ -26,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nipuninuwanthika&show_icons=true&locale=en&layout=compact" alt="nipuninuwanthika" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nipuninuwanthika&show_icons=true&locale=en" alt="nipuninuwanthika" /></p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://nipunimadanayake.medium.com/creating-a-new-angular-project-69fe82173ddf)
