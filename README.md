@@ -1,4 +1,4 @@
-[![Nipuni's GitHub Banner](banner.png)](https://braydoncoyer.dev)
+[![Nipuni's GitHub Banner](mybanner.png)](https://braydoncoyer.dev)
 
 <h1 align="left">Nipuni Madanayake</h1>
 <h3 align="left">Undergraduate of University of Moratuwa, Faculty of Information Technology</h3>
