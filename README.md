@@ -1,8 +1,8 @@
 [![Nipuni's GitHub Banner](Nipunibanner.png)](https://braydoncoyer.dev)
 
-<h1 align="left">Nipuni Madanayake</h1>
-
-<p>I'm Nipuni Madanayake from Sri Lanka, and I am an undergraduate of University of Moratuwa. I really enjoy learning languages and frameworks like Angular and I enjoy styling web applications using CSS, Bootstrap and Angular Material as well.</p>
+<h1 align="left">Nipuni Madanayake<br></h1>
+<h3>Undergraduate, University of Moratuwa</h3>
+<p>I'm Nipuni Madanayake from Sri Lanka, and I am following BSc.(Hons) Information Technology degree at University of Moratuwa. I really enjoy learning languages and frameworks like Angular and I enjoy styling web applications using CSS, Bootstrap and Angular Material as well.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipuninuwanthika&label=Profile%20views&color=0e75b6&style=flat" alt="nipuninuwanthika" /> </p>
 
