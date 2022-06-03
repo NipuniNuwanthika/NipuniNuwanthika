@@ -3,10 +3,14 @@
 <h1 align="left">Nipuni Madanayake</h1>
 
 <p>I'm Nipuni Madanayake from Sri Lanka, and I am an undergraduate of University of Moratuwa. I really enjoy learning languages and frameworks like Angular and I enjoy styling web applications using CSS, Bootstrap and Angular Material as well.</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nipuninuwanthika&label=Profile%20views&color=0e75b6&style=flat" alt="nipuninuwanthika" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nipuninuwanthika" alt="nipuninuwanthika" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://resultpediabd.com/wp-content/uploads/2019/08/me.gif">
-
-
 - 🔭 I’m currently working on [CGU Project](https://github.com/SoftwareChasers-CGU-Project)
+
+- 🌱 I’m currently learning **Angular, NodeJS**
 
 - 📝 I regularly write articles on [https://nipunimadanayake.medium.com/](https://nipunimadanayake.medium.com/)
 
@@ -26,3 +30,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nipuninuwanthika&show_icons=true&locale=en&layout=compact" alt="nipuninuwanthika" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nipuninuwanthika&show_icons=true&locale=en" alt="nipuninuwanthika" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipuninuwanthika&" alt="nipuninuwanthika" /></p>
