@@ -1,5 +1,5 @@
 [![Nipuni's GitHub Banner](Nipunibanner.png)](https://braydoncoyer.dev)
-
+[![An image of @nipuninuwanthika's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nipuninuwanthika)](https://holopin.io/@nipuninuwanthika)
 <h1 align="left">Nipuni Madanayake<br></h1>
 <h3>Undergraduate, University of Moratuwa</h3>
 <p>I'm Nipuni Madanayake from Sri Lanka, and I am following BSc.(Hons) Information Technology degree at University of Moratuwa. I really enjoy learning languages and frameworks like Angular and I enjoy styling web applications using CSS, Bootstrap and Angular Material as well.</p>
@@ -34,4 +34,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nipuninuwanthika&show_icons=true&locale=en" alt="nipuninuwanthika" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipuninuwanthika&" alt="nipuninuwanthika" /></p>
-[![An image of @nipuninuwanthika's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nipuninuwanthika)](https://holopin.io/@nipuninuwanthika)
