@@ -1,4 +1,3 @@
-[![Nipuni's GitHub Banner](Nipunibanner.png)](https://braydoncoyer.dev)
 [![An image of @nipuninuwanthika's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nipuninuwanthika)](https://holopin.io/@nipuninuwanthika)
 <h1 align="left">Nipuni Madanayake<br></h1>
 <h3>Undergraduate, University of Moratuwa</h3>
