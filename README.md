@@ -34,3 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nipuninuwanthika&show_icons=true&locale=en" alt="nipuninuwanthika" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipuninuwanthika&" alt="nipuninuwanthika" /></p>
+[![An image of @nipuninuwanthika's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nipuninuwanthika)](https://holopin.io/@nipuninuwanthika)
