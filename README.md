@@ -9,9 +9,9 @@
 <img align="right" alt="Coding" width="400" src="https://resultpediabd.com/wp-content/uploads/2019/08/me.gif">
 
 
-- 🔭 I’m currently working on **CGU Project**
+- 🔭 I’m currently working on **Storytelling application for Deaf project**
 
-- 🌱 I’m currently learning **Angular, NodeJS**
+- 🌱 I’m currently learning **React Js**
 
 - 📝 I regularly write articles on [https://nipunimadanayake.medium.com/](https://nipunimadanayake.medium.com/)
 
